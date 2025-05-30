@@ -35,7 +35,7 @@ import (
 )
 
 const SystemDBName = "systemdb"
-const DefaultDBName = "defaultdb"
+const DefaultDBName = "mydatabase"
 
 // Options server options list
 type Options struct {

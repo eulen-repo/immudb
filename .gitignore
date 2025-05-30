@@ -54,3 +54,8 @@ token_admin
 swagger/dist
 swagger/swaggerembedded
 webconsole/webconsoleembedded
+
+# Claude
+claude-out
+node_modules/
+debug-data/
